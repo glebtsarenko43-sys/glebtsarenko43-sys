@@ -3,13 +3,13 @@
 ### Владею языками:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js" />
+  <img src="https://skillicons.dev/icons?i=python,rust,go" />
 </p>
 
-### Frontend & Backend & Инструменты:
+### Backend & Инструменты:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,git,webstorm,pycharm,vscode,nodejs,docker,github,postman" />
+  <img src="https://skillicons.dev/icons?i=git,goland,pycharm,vscode,docker,github,rustrover" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 ### GitHub Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dotax5&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dotax5&show_icons=true&theme=light" />
 </p>
 
 ---
