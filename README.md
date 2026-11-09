@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Привет, я <a href="https://github.com/dotax5" target="_blank">Danya / dotax5</a></h1>
 
-<!--
-**glebtsarenko43-sys/glebtsarenko43-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Владею языками:
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend & Backend & Инструменты:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,git,webstorm,pycharm,vscode,nodejs,docker,github,postman" />
+</p>
+
+---
+
+### GitHub Статистика
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dotax5&show_icons=true&theme=dark" />
+</p>
+
+---
+
+### Как со мной связаться
+
+<p align="center">
+  <a href="https://t.me/dotax5" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:dan.golovin.011@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.com/users/dotaxkent" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
+
+---
